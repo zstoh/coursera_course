@@ -27,18 +27,13 @@ body {
   font-size: 1.8em;
 }
 
-.navbar-header button.navbar-toggle {
-  clear: both;
-  margin-top: -30px;
-}
-
 h1, h3 {
-  text-align: center;
   font-weight: bold;
 }
 
-p {
-  text-align: justify;
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
 }
 
 #box1, #box3 {
